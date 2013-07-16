@@ -4,7 +4,7 @@
   <groupId>org.codehaus.enunciate</groupId>
   <artifactId>enunciate-parent</artifactId>
   <packaging>pom</packaging>
-  <version>1.27-SNAPSHOT</version>
+  <version>1.27-unitedinternet</version>
   <name>Enunciate - Parent</name>
 
   <modules>
@@ -51,7 +51,7 @@
     <module>maven-enunciate-jboss-plugin</module>
 
     <module>enunciate-simple-archetype</module>
-    <module>integration-tests</module>
+    <!--<module>integration-tests</module>-->
   </modules>
 
   <build>
